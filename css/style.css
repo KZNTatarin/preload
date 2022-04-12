@@ -108,7 +108,7 @@ body{
     
 .preloader{
     position: fixed;
-    background-color: white;
+/*     background-color: white; */
     z-index: 1;
     display: flex;
     justify-content: center;
